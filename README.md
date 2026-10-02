@@ -2,7 +2,7 @@
 
 Static bilingual portfolio for Maksymilian Kubiak.
 
-[Open the live site](https://kubiakmaks.github.io/portfolio/)
+[Open the live site](https://kubiakmaks.pl/)
 
 ## Local preview
 
