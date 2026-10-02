@@ -2,6 +2,8 @@
 
 Static bilingual portfolio for Maksymilian Kubiak.
 
+[Open the live site](https://kubiakmaks.github.io/portfolio/)
+
 ## Local preview
 
 ```powershell
