@@ -1,6 +1,6 @@
 # kubiakmaks.pl
 
-Static bilingual portfolio for Maksymilian Kubiak.
+Static bilingual portfolio.
 
 [Open the live site](https://kubiakmaks.pl/)
 
